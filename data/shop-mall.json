@@ -1,0 +1,127 @@
+{
+    "shops": [
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/samsung-sieu-sale",
+        "image": "5537b898c9bb5251d0adf6c58dc3a612",
+        "shopid": 65589552,
+        "promo_text": "Giảm đến 50%",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/dutchlady",
+        "image": "ce18f9221fc8bd10840972bfe6daeb87",
+        "shopid": 131420188,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": "REQID:1f8a1b84efb0ee66263dece2ea37ce00%3A0600007de3c78cbe%3A050000a47aaac7fd,BND:officialshop,BNDOPT:officialshop,QUE:SHOPPOP,QUES:SHOPPOP,SECKEY:officialshop_sec,USR:default,LC:1|1",
+        "url": "https://shopee.vn/rohto",
+        "image": "fbc36e59ad705a69422e5a6a047fa870",
+        "shopid": 138781248,
+        "promo_text": "Mua 2 tặng 1",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/unilever-hc",
+        "image": "fe1205119e3af6c46f0962f25c3d6232",
+        "shopid": 26947756,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/cpd",
+        "image": "3ba5d4e6f1aac0727c53ca056a87780b",
+        "shopid": 37251933,
+        "promo_text": "Ưu đãi đến 50%",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/rohto",
+        "image": "0f7a5afad61bf61954ca52ef8d8e578c",
+        "shopid": 95753434,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/dove",
+        "image": "10b311b31630ddf1a8e8d2a6bfce5d07",
+        "shopid": 111138057,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/uu-dai-comet",
+        "image": "65b899dc42301b489257e7d871a3dfb2",
+        "shopid": 53621981,
+        "promo_text": "Giảm đến 50%",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/sunhouse-sieu-sale",
+        "image": "49bd4737feeb3f261e2ca9835b1d8b67",
+        "shopid": 18183995,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/larocheposay",
+        "image": "3be79b0d655d0ecbb04e56ce9422b5ed",
+        "shopid": 37251700,
+        "promo_text": "Quà độc quyền",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/aviano-sieu-sale",
+        "image": "f315ae60e9589d1609593bfcca6e1f3f",
+        "shopid": 40342563,
+        "promo_text": "Deal sốc 1k",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/durex",
+        "image": "9a439dc6f101cd989737db2f9527e2cc",
+        "shopid": 61792033,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/cosrx-official",
+        "image": "ca26690287620b958ee9cf78fa97c0b6",
+        "shopid": 457209160,
+        "promo_text": "Giảm đến 50%",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/unicharm-hb",
+        "image": "50ecbff1d13d8f053b2d41a8977387bb",
+        "shopid": 63524190,
+        "promo_text": "Mua là có quà",
+        "recommendation_algorithm": null
+      },
+      {
+        "recommendation_info": null,
+        "url": "https://shopee.vn/sony-",
+        "image": "cbceee45485079b14a7ef9c40ca3115f",
+        "shopid": 92564297,
+        "promo_text": "Giảm đến 40%",
+        "recommendation_algorithm": null
+      }
+    ],
+    "brand_of_the_week": {
+      "homepage_image": "393a03f1c025b2df248e0dc70d5a0824"
+    }
+  }

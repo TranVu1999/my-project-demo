@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CacheStorage On Browser</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="p-5 border main-wrapper">
+        <h1>Channel messaging demo</h1>
+        <span>Message received by IFrame: <span id="parentReceivedMessage" class="text-danger">"demo"</span></span>
+
+        <form class="mb-3 form-message">
+            <div class="mb-3">
+                <label for="txtMessage" class="form-label">Send a message</label>
+                <input type="text" id="txtMessage" class="form-control">
+            </div>
+            <button id="btnSubmitMessage" type="button" class="btn btn-primary">Send message</button>
+        </form>
+
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./script.js"></script>
+    <script>
+        var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?69280';
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = url;
+        var options = {
+      "enabled":true,
+      "chatButtonSetting":{
+          "backgroundColor":"#4dc247",
+          "ctaText":"",
+          "borderRadius":"25",
+          "marginLeft":"0",
+          "marginBottom":"50",
+          "marginRight":"50",
+          "position":"right"
+      },
+      "brandSetting":{
+          "brandName":"SAT Sport",
+          "brandSubTitle":"Typically replies within a day",
+          "brandImg":"https://pps.whatsapp.net/v/t61.24694-24/295859949_645981183923470_608552652921220835_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdRIgWl3mIyfSfkLhlpf_qjTrcyXEUlygGo2xVExpotG_Q&oe=63D33779",
+          "welcomeText":"Hi there!\nHow can I help you?",
+          "messageText":"Hello, I have a question about {{page_link}}",
+          "backgroundColor":"#0a5f54",
+          "ctaText":"Start Chat",
+          "borderRadius":"25",
+          "autoShow":false,
+          "phoneNumber":"84377670509"
+      }
+    };
+        s.onload = function() {
+            CreateWhatsappChatWidget(options);
+        };
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    </script>
+</body>
+</html>

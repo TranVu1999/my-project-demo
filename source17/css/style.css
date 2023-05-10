@@ -1,0 +1,59 @@
+:root {
+    --hue-0: 358;
+
+    --sat: 100;
+    --light: 12;
+
+    --hue-1: 39;
+
+    --hue-2: 193;
+
+    --hue-3: 24;
+
+    /* between 50 - 70 */
+    --threshold: 65;
+    /* threshold for border 80+ */
+    --border-threshold: 80;
+}
+
+input[type=range]{
+    display:flex;
+    flex-direction:column;
+    color: black;
+    text-align:center;
+    margin: 10px;
+}
+
+input::before{
+    content: attr(id);
+    text-transform: capitalize;
+}
+
+input[id=hue-0]::after{
+    counter-reset: hue var(--hue-0);
+    content: counter(hue);
+}
+input[id=hue-1]::after{
+    counter-reset: hue var(--hue-1);
+    content: counter(hue);
+}
+input[id=hue-2]::after{
+    counter-reset: hue var(--hue-2);
+    content: counter(hue);
+}
+input[id=hue-3]::after{
+    counter-reset: hue var(--hue-3);
+    content: counter(hue);
+}
+
+input[id=saturation]::after{
+    counter-reset: sat var(--sat);
+    content: counter(sat);
+}
+
+input[id=lightness]::after{
+    counter-reset: light var(--light);
+    content: counter(light);
+}
+
+

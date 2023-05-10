@@ -1,0 +1,502 @@
+[
+    {
+      "brand_id": 0,
+      "name": "NoBrand",
+      "display_name": "No brand"
+    },
+    {
+      "brand_id": 1063328,
+      "name": "AAA JEANS",
+      "display_name": "AAA JEANS"
+    },
+    {
+      "brand_id": 1063376,
+      "name": "ADORE DRESS",
+      "display_name": "ADORE DRESS"
+    },
+    {
+      "brand_id": 1063377,
+      "name": "ADRIENNE VITTADINI",
+      "display_name": "ADRIENNE VITTADINI"
+    },
+    {
+      "brand_id": 1063394,
+      "name": "AFTERBEFORE",
+      "display_name": "AFTERBEFORE"
+    },
+    {
+      "brand_id": 1063395,
+      "name": "AFTF BASIC",
+      "display_name": "AFTF BASIC"
+    },
+    {
+      "brand_id": 1063437,
+      "name": "AJIMAL",
+      "display_name": "AJIMAL"
+    },
+    {
+      "brand_id": 1063458,
+      "name": "AKUBA",
+      "display_name": "AKUBA"
+    },
+    {
+      "brand_id": 1063465,
+      "name": "ALAMODEvn",
+      "display_name": "ALAMODEvn"
+    },
+    {
+      "brand_id": 1063469,
+      "name": "ALCADO",
+      "display_name": "ALCADO"
+    },
+    {
+      "brand_id": 1063484,
+      "name": "ALICE TÔ",
+      "display_name": "ALICE TÔ"
+    },
+    {
+      "brand_id": 1063486,
+      "name": "ALIGRO",
+      "display_name": "ALIGRO"
+    },
+    {
+      "brand_id": 1063517,
+      "name": "AMADO",
+      "display_name": "AMADO"
+    },
+    {
+      "brand_id": 1063533,
+      "name": "AMELIA",
+      "display_name": "AMELIA"
+    },
+    {
+      "brand_id": 1063581,
+      "name": "ANEW",
+      "display_name": "ANEW"
+    },
+    {
+      "brand_id": 1063593,
+      "name": "ANH THO LEATHER",
+      "display_name": "ANH THO LEATHER"
+    },
+    {
+      "brand_id": 1063605,
+      "name": "ANLY",
+      "display_name": "ANLY"
+    },
+    {
+      "brand_id": 1063607,
+      "name": "ANN CHERY",
+      "display_name": "ANN CHERY"
+    },
+    {
+      "brand_id": 1063609,
+      "name": "ANN SARA",
+      "display_name": "ANN SARA"
+    },
+    {
+      "brand_id": 1063612,
+      "name": "ANNA NINA",
+      "display_name": "ANNA NINA"
+    },
+    {
+      "brand_id": 1063614,
+      "name": "ANNACOCO",
+      "display_name": "ANNACOCO"
+    },
+    {
+      "brand_id": 1063620,
+      "name": "ANNY",
+      "display_name": "ANNY"
+    },
+    {
+      "brand_id": 1063638,
+      "name": "ANY BOUTIQUE",
+      "display_name": "ANY BOUTIQUE"
+    },
+    {
+      "brand_id": 1063671,
+      "name": "APROMS",
+      "display_name": "APROMS"
+    },
+    {
+      "brand_id": 1063699,
+      "name": "ARDILLA",
+      "display_name": "ARDILLA"
+    },
+    {
+      "brand_id": 1063715,
+      "name": "ARIZONA JEANS",
+      "display_name": "ARIZONA JEANS"
+    },
+    {
+      "brand_id": 1063784,
+      "name": "ATSUGI",
+      "display_name": "ATSUGI"
+    },
+    {
+      "brand_id": 1063828,
+      "name": "AZAGO",
+      "display_name": "AZAGO"
+    },
+    {
+      "brand_id": 1063831,
+      "name": "AZUMI",
+      "display_name": "AZUMI"
+    },
+    {
+      "brand_id": 1063866,
+      "name": "Adrianna Papell",
+      "display_name": "Adrianna Papell"
+    },
+    {
+      "brand_id": 1063897,
+      "name": "Aimy Boutique",
+      "display_name": "Aimy Boutique"
+    },
+    {
+      "brand_id": 1063899,
+      "name": "Aino Sofia",
+      "display_name": "Aino Sofia"
+    },
+    {
+      "brand_id": 1063949,
+      "name": "Alayna",
+      "display_name": "Alayna"
+    },
+    {
+      "brand_id": 1063985,
+      "name": "Alice",
+      "display_name": "Alice"
+    },
+    {
+      "brand_id": 1064037,
+      "name": "Ameo",
+      "display_name": "Ameo"
+    },
+    {
+      "brand_id": 1064052,
+      "name": "Amilian",
+      "display_name": "Amilian"
+    },
+    {
+      "brand_id": 1064079,
+      "name": "Anadi Home",
+      "display_name": "Anadi Home"
+    },
+    {
+      "brand_id": 1064118,
+      "name": "Angelavic",
+      "display_name": "Angelavic"
+    },
+    {
+      "brand_id": 1064119,
+      "name": "Angelic Pretty",
+      "display_name": "Angelic Pretty"
+    },
+    {
+      "brand_id": 1064140,
+      "name": "Anna",
+      "display_name": "Anna"
+    },
+    {
+      "brand_id": 1064188,
+      "name": "Anvil",
+      "display_name": "Anvil"
+    },
+    {
+      "brand_id": 1064268,
+      "name": "Asala",
+      "display_name": "Asala"
+    },
+    {
+      "brand_id": 1064357,
+      "name": "Azuno",
+      "display_name": "Azuno"
+    },
+    {
+      "brand_id": 1064375,
+      "name": "adenflu",
+      "display_name": "adenflu"
+    },
+    {
+      "brand_id": 1064378,
+      "name": "aerie",
+      "display_name": "aerie"
+    },
+    {
+      "brand_id": 1064388,
+      "name": "ailian",
+      "display_name": "ailian"
+    },
+    {
+      "brand_id": 1064391,
+      "name": "aimilian",
+      "display_name": "aimilian"
+    },
+    {
+      "brand_id": 1064491,
+      "name": "CACHE",
+      "display_name": "CACHE"
+    },
+    {
+      "brand_id": 1064517,
+      "name": "CALLIOPE",
+      "display_name": "CALLIOPE"
+    },
+    {
+      "brand_id": 1064538,
+      "name": "DAICHIPRO",
+      "display_name": "DAICHIPRO"
+    },
+    {
+      "brand_id": 1064603,
+      "name": "DANCO",
+      "display_name": "DANCO"
+    },
+    {
+      "brand_id": 1064604,
+      "name": "HA GATTINI",
+      "display_name": "HA GATTINI"
+    },
+    {
+      "brand_id": 1064622,
+      "name": "ECOJEANS",
+      "display_name": "ECOJEANS"
+    },
+    {
+      "brand_id": 1064627,
+      "name": "DANY",
+      "display_name": "DANY"
+    },
+    {
+      "brand_id": 1064632,
+      "name": "FANTOM",
+      "display_name": "FANTOM"
+    },
+    {
+      "brand_id": 1064654,
+      "name": "GALASSIN",
+      "display_name": "GALASSIN"
+    },
+    {
+      "brand_id": 1064684,
+      "name": "FASHION NOVA",
+      "display_name": "FASHION NOVA"
+    },
+    {
+      "brand_id": 1064693,
+      "name": "FASVIN",
+      "display_name": "FASVIN"
+    },
+    {
+      "brand_id": 1064803,
+      "name": "KAIA",
+      "display_name": "KAIA"
+    },
+    {
+      "brand_id": 1064817,
+      "name": "GBeauty",
+      "display_name": "GBeauty"
+    },
+    {
+      "brand_id": 1064836,
+      "name": "GCAROL",
+      "display_name": "GCAROL"
+    },
+    {
+      "brand_id": 1064842,
+      "name": "IFU",
+      "display_name": "IFU"
+    },
+    {
+      "brand_id": 1064846,
+      "name": "CATRIO",
+      "display_name": "CATRIO"
+    },
+    {
+      "brand_id": 1064855,
+      "name": "CATSA",
+      "display_name": "CATSA"
+    },
+    {
+      "brand_id": 1064867,
+      "name": "BARDOT",
+      "display_name": "BARDOT"
+    },
+    {
+      "brand_id": 1064871,
+      "name": "IKIGAI",
+      "display_name": "IKIGAI"
+    },
+    {
+      "brand_id": 1064891,
+      "name": "DEGREY",
+      "display_name": "DEGREY"
+    },
+    {
+      "brand_id": 1064942,
+      "name": "DELAMO",
+      "display_name": "DELAMO"
+    },
+    {
+      "brand_id": 1064952,
+      "name": "DELEAH",
+      "display_name": "DELEAH"
+    },
+    {
+      "brand_id": 1064968,
+      "name": "JANET STUDIO",
+      "display_name": "JANET STUDIO"
+    },
+    {
+      "brand_id": 1064992,
+      "name": "GEMINI",
+      "display_name": "GEMINI"
+    },
+    {
+      "brand_id": 1065022,
+      "name": "KAMA",
+      "display_name": "KAMA"
+    },
+    {
+      "brand_id": 1065026,
+      "name": "FIGARO",
+      "display_name": "FIGARO"
+    },
+    {
+      "brand_id": 1065044,
+      "name": "GENNI",
+      "display_name": "GENNI"
+    },
+    {
+      "brand_id": 1065047,
+      "name": "KAMAYA",
+      "display_name": "KAMAYA"
+    },
+    {
+      "brand_id": 1065048,
+      "name": "DEMEYO",
+      "display_name": "DEMEYO"
+    },
+    {
+      "brand_id": 1065049,
+      "name": "HAMI",
+      "display_name": "HAMI"
+    },
+    {
+      "brand_id": 1065050,
+      "name": "GENZ",
+      "display_name": "GENZ"
+    },
+    {
+      "brand_id": 1065053,
+      "name": "JARNO",
+      "display_name": "JARNO"
+    },
+    {
+      "brand_id": 1065070,
+      "name": "DEMIX",
+      "display_name": "DEMIX"
+    },
+    {
+      "brand_id": 1065091,
+      "name": "KAMITO",
+      "display_name": "KAMITO"
+    },
+    {
+      "brand_id": 1065096,
+      "name": "JASPAL",
+      "display_name": "JASPAL"
+    },
+    {
+      "brand_id": 1065132,
+      "name": "BDG",
+      "display_name": "BDG"
+    },
+    {
+      "brand_id": 1065144,
+      "name": "INFASHION",
+      "display_name": "INFASHION"
+    },
+    {
+      "brand_id": 1065149,
+      "name": "HANAMA",
+      "display_name": "HANAMA"
+    },
+    {
+      "brand_id": 1065152,
+      "name": "ELISA LITZ",
+      "display_name": "ELISA LITZ"
+    },
+    {
+      "brand_id": 1065162,
+      "name": "ELISE",
+      "display_name": "ELISE"
+    },
+    {
+      "brand_id": 1065240,
+      "name": "ELLY",
+      "display_name": "ELLY"
+    },
+    {
+      "brand_id": 1065279,
+      "name": "JERZEES",
+      "display_name": "JERZEES"
+    },
+    {
+      "brand_id": 1065355,
+      "name": "KAREN MILEN",
+      "display_name": "KAREN MILEN"
+    },
+    {
+      "brand_id": 1065359,
+      "name": "CHARLOTTE FASHION",
+      "display_name": "CHARLOTTE FASHION"
+    },
+    {
+      "brand_id": 1065365,
+      "name": "KAREN SCOTT",
+      "display_name": "KAREN SCOTT"
+    },
+    {
+      "brand_id": 1065376,
+      "name": "EMPOLHAM",
+      "display_name": "EMPOLHAM"
+    },
+    {
+      "brand_id": 1065408,
+      "name": "EMWEAR",
+      "display_name": "EMWEAR"
+    },
+    {
+      "brand_id": 1065410,
+      "name": "BEMINE",
+      "display_name": "BEMINE"
+    },
+    {
+      "brand_id": 1065430,
+      "name": "FMSTYLE",
+      "display_name": "FMSTYLE"
+    },
+    {
+      "brand_id": 1065431,
+      "name": "CHELLE",
+      "display_name": "CHELLE"
+    },
+    {
+      "brand_id": 1065453,
+      "name": "CHENNY",
+      "display_name": "CHENNY"
+    },
+    {
+      "brand_id": 1065470,
+      "name": "CHERRYKOKO",
+      "display_name": "CHERRYKOKO"
+    },
+    {
+      "brand_id": 1065498,
+      "name": "ENINA",
+      "display_name": "ENINA"
+    }
+  ]

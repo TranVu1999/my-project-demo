@@ -1,0 +1,1482 @@
+{
+    "filters": [
+      {
+        "name": "PAY_COD",
+        "type": 1,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "PAY_COD",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "COD",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "PAY_CREDIT_CARD",
+        "type": 2,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "PAY_CREDIT_CARD",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Credit Card",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "INSTALLMENT",
+        "type": 3,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "0% TRẢ GÓP",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "0% INSTALLMENT",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "OFFICIAL_MALL",
+        "type": 5,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Shopee Mall",
+            "short_text": "Shopee Mall",
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Shopee Mall",
+            "short_text": "Shopee Mall",
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "PREFERRED_PLUS",
+        "type": 6,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Shop Yêu Thích +",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Preferred Shop +",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "PREFERRED",
+        "type": 7,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Shop Yêu thích",
+            "short_text": "Shop Yêu thích",
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Preferred Shop",
+            "short_text": "Preferred Shop",
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "NEW_ITEM",
+        "type": 8,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Mới",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "New with tag",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "USED_ITEM",
+        "type": 9,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Đã sử dụng",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Used",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "WITH_DISCOUNT",
+        "type": 10,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Đang giảm giá",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "On sale",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "FREE_SHIPPING",
+        "type": 11,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Miễn phí vận chuyển",
+            "short_text": "Miễn phí vận chuyển",
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Free Shipping",
+            "short_text": "Freeship",
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "PRE_ORDER",
+        "type": 12,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Hàng có sẵn",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Ready Stock",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "FILTER_VIDEO",
+        "type": 13,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "FILTER_VIDEO",
+            "short_text": null,
+            "is_default": true
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "WHOLESALE",
+        "type": 14,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Mua giá bán buôn/ bán sỉ",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Wholesale",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "HAS_LOWEST_PRICE_GUARANTEE",
+        "type": 15,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Gì Cũng Rẻ",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Anything Cheap",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "HUNDRED_PERCENT_ORIGINAL",
+        "type": 16,
+        "label_id": null,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "HUNDRED_PERCENT_ORIGINAL",
+            "short_text": null,
+            "is_default": true
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "FACET",
+        "type": 17,
+        "label_id": null,
+        "is_dynamic": true,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Theo Danh Mục",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "By category",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "LOCATIONS",
+        "type": 18,
+        "label_id": null,
+        "is_dynamic": true,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Nơi Bán",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Shipped from",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "SHIPPING_OPTIONS",
+        "type": 19,
+        "label_id": null,
+        "is_dynamic": true,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Đơn Vị Vận Chuyển",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Shipping options",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "BRANDS",
+        "type": 20,
+        "label_id": null,
+        "is_dynamic": true,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Thương Hiệu",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Brands",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "PRICE_RANGE",
+        "type": 21,
+        "label_id": null,
+        "is_dynamic": true,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Khoảng Giá",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Price Range",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "RATING",
+        "type": 22,
+        "label_id": null,
+        "is_dynamic": true,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Đánh Giá",
+            "short_text": "Đánh giá",
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Rating",
+            "short_text": "Rating",
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "label_freeship99k_vn_product_label_filter",
+        "type": 23,
+        "label_id": 44,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Freeship Xtra",
+            "short_text": "Freeship Xtra",
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Freeship Xtra",
+            "short_text": "Freeship Xtra",
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      },
+      {
+        "name": "ccb01to04sep_product_label_filter",
+        "type": 23,
+        "label_id": 1000742,
+        "is_dynamic": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Hoàn xu Xtra",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Coin Cashback Extra",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "icon_url": null,
+        "curation_id": null,
+        "global_attr_id": null,
+        "item_tag_id": null
+      }
+    ],
+    "filter_groups": [
+      {
+        "name": "FACET",
+        "filters": [
+          {
+            "name": "FACET",
+            "hidden": null,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Theo Danh Mục",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "By category",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "LOCATIONS",
+        "filters": [
+          {
+            "name": "LOCATIONS",
+            "hidden": null,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Nơi Bán",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Shipped from",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "SHIPPING_OPTIONS",
+        "filters": [
+          {
+            "name": "SHIPPING_OPTIONS",
+            "hidden": null,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Đơn Vị Vận Chuyển",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Shipping options",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "BRANDS",
+        "filters": [
+          {
+            "name": "BRANDS",
+            "hidden": null,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Thương Hiệu",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Brands",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "PRICE_RANGE",
+        "filters": [
+          {
+            "name": "PRICE_RANGE",
+            "hidden": null,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Khoảng Giá",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Price Range",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "SHOP_TYPE",
+        "filters": [
+          {
+            "name": "OFFICIAL_MALL",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "PREFERRED",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "PREFERRED_PLUS",
+            "hidden": false,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 1,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Loại Shop",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Shop Type",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "CONDITION",
+        "filters": [
+          {
+            "name": "USED_ITEM",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "NEW_ITEM",
+            "hidden": false,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 1,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Tình Trạng",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Condition",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "PAYMENT_OPTIONS",
+        "filters": [
+          {
+            "name": "INSTALLMENT",
+            "hidden": false,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 1,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Các lựa chọn thanh toán",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Payment Options",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "RATING",
+        "filters": [
+          {
+            "name": "RATING",
+            "hidden": null,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Đánh Giá",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Rating",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      },
+      {
+        "name": "SERVICE_AND_PROMOTION",
+        "filters": [
+          {
+            "name": "label_freeship99k_vn_product_label_filter",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "ccb01to04sep_product_label_filter",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "WITH_DISCOUNT",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "FREE_SHIPPING",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "HAS_LOWEST_PRICE_GUARANTEE",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "PRE_ORDER",
+            "hidden": false,
+            "schedule_settings": null
+          },
+          {
+            "name": "WHOLESALE",
+            "hidden": false,
+            "schedule_settings": null
+          }
+        ],
+        "logic": 0,
+        "hidden": false,
+        "translations": [
+          {
+            "language_code": "vi",
+            "text": "Dịch Vụ & Khuyến Mãi",
+            "short_text": null,
+            "is_default": true
+          },
+          {
+            "language_code": "en",
+            "text": "Service and Promotion",
+            "short_text": null,
+            "is_default": false
+          }
+        ],
+        "collapse_settings": null
+      }
+    ],
+    "filter_shortcut_groups": [
+      {
+        "is_default": true,
+        "filters": [
+          {
+            "name": "OFFICIAL_MALL",
+            "hidden": false
+          },
+          {
+            "name": "label_freeship99k_vn_product_label_filter",
+            "hidden": false
+          },
+          {
+            "name": "PREFERRED",
+            "hidden": false
+          },
+          {
+            "name": "FREE_SHIPPING",
+            "hidden": false
+          },
+          {
+            "name": "RATING",
+            "hidden": false
+          }
+        ],
+        "schedule_settings": null
+      }
+    ],
+    "dynamic_filter_group_data": {
+      "facets": [
+        {
+          "category": {
+            "parentids": [
+              11035639,
+              11035665
+            ],
+            "display_name": "Áo khoác ngoài",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": [
+                  11035639
+                ],
+                "display_name": "Áo khoác, Áo choàng & Vest",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Jackets, Coats & Vests"
+              },
+              "catid": 11035665,
+              "count": 566561,
+              "show_parent_category": null
+            },
+            "name": "Jackets"
+          },
+          "catid": 11035669,
+          "count": 264485,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [],
+            "display_name": "Thời Trang Trẻ Em",
+            "is_default_subcat": null,
+            "parent_category_detail": null,
+            "name": "Kid Fashion"
+          },
+          "catid": 11036382,
+          "count": 255196,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035567
+            ],
+            "display_name": "Áo Khoác",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "Thời Trang Nam",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Men Clothes"
+              },
+              "catid": 11035567,
+              "count": 310329,
+              "show_parent_category": null
+            },
+            "name": "Jackets, Coats & Vests"
+          },
+          "catid": 11035568,
+          "count": 225251,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639,
+              11035665
+            ],
+            "display_name": "Áo khoác mùa đông & Áo choàng",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": [
+                  11035639
+                ],
+                "display_name": "Áo khoác, Áo choàng & Vest",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Jackets, Coats & Vests"
+              },
+              "catid": 11035665,
+              "count": 566561,
+              "show_parent_category": null
+            },
+            "name": "Winter Jackets & Coats"
+          },
+          "catid": 11035666,
+          "count": 185470,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639
+            ],
+            "display_name": "Hoodie và Áo nỉ",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "Thời Trang Nữ",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Women Clothes"
+              },
+              "catid": 11035639,
+              "count": 935147,
+              "show_parent_category": null
+            },
+            "name": "Hoodies & Sweatshirts"
+          },
+          "catid": 11035673,
+          "count": 138210,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639
+            ],
+            "display_name": "Áo len & Cardigan",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "Thời Trang Nữ",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Women Clothes"
+              },
+              "catid": 11035639,
+              "count": 935147,
+              "show_parent_category": null
+            },
+            "name": "Sweaters & Cardigans"
+          },
+          "catid": 11035672,
+          "count": 79102,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639,
+              11035665
+            ],
+            "display_name": "Áo blazer",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": [
+                  11035639
+                ],
+                "display_name": "Áo khoác, Áo choàng & Vest",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Jackets, Coats & Vests"
+              },
+              "catid": 11035665,
+              "count": 566561,
+              "show_parent_category": null
+            },
+            "name": "Blazers"
+          },
+          "catid": 11035668,
+          "count": 58282,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639
+            ],
+            "display_name": "Áo",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "Thời Trang Nữ",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Women Clothes"
+              },
+              "catid": 11035639,
+              "count": 935147,
+              "show_parent_category": null
+            },
+            "name": "Tops"
+          },
+          "catid": 11035640,
+          "count": 42045,
+          "show_parent_category": true
+        },
+        {
+          "category": {
+            "parentids": [
+              11035567
+            ],
+            "display_name": "Áo Hoodie, Áo Len & Áo Nỉ",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "Thời Trang Nam",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Men Clothes"
+              },
+              "catid": 11035567,
+              "count": 310329,
+              "show_parent_category": null
+            },
+            "name": "Hoodies & Sweatshirts"
+          },
+          "catid": 11035578,
+          "count": 41409,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639
+            ],
+            "display_name": "Bộ",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "Thời Trang Nữ",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Women Clothes"
+              },
+              "catid": 11035639,
+              "count": 935147,
+              "show_parent_category": null
+            },
+            "name": "Sets"
+          },
+          "catid": 11035677,
+          "count": 36354,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639,
+              11035665
+            ],
+            "display_name": "Áo vest",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": [
+                  11035639
+                ],
+                "display_name": "Áo khoác, Áo choàng & Vest",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Jackets, Coats & Vests"
+              },
+              "catid": 11035665,
+              "count": 566561,
+              "show_parent_category": null
+            },
+            "name": "Vests"
+          },
+          "catid": 11035670,
+          "count": 27857,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11035639,
+              11035665
+            ],
+            "display_name": "Khác",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": [
+                  11035639
+                ],
+                "display_name": "Áo khoác, Áo choàng & Vest",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Jackets, Coats & Vests"
+              },
+              "catid": 11035665,
+              "count": 566561,
+              "show_parent_category": null
+            },
+            "name": "Others"
+          },
+          "catid": 11035671,
+          "count": 25373,
+          "show_parent_category": true
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hà Nội",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Hà Nội",
+          "translations": null,
+          "tag_ids": [
+            700000280
+          ]
+        },
+        {
+          "name": "TP. Hồ Chí Minh",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "TP. Hồ Chí Minh",
+          "translations": null,
+          "tag_ids": [
+            1400005265
+          ]
+        },
+        {
+          "name": "Thái Nguyên",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Thái Nguyên",
+          "translations": null,
+          "tag_ids": [
+            1400000270
+          ]
+        },
+        {
+          "name": "Vĩnh Phúc",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Vĩnh Phúc",
+          "translations": null,
+          "tag_ids": [
+            1400000247
+          ]
+        },
+        {
+          "name": "Hải Phòng",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Hải Phòng",
+          "translations": null,
+          "tag_ids": [
+            1400005281
+          ]
+        },
+        {
+          "name": "Đồng Nai",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Đồng Nai",
+          "translations": null,
+          "tag_ids": [
+            1400000212
+          ]
+        },
+        {
+          "name": "Hưng Yên",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Hưng Yên",
+          "translations": null,
+          "tag_ids": [
+            1400005278
+          ]
+        },
+        {
+          "name": "Bình Dương",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Bình Dương",
+          "translations": null,
+          "tag_ids": [
+            700000281
+          ]
+        },
+        {
+          "name": "Bắc Ninh",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Bắc Ninh",
+          "translations": null,
+          "tag_ids": [
+            1058898
+          ]
+        },
+        {
+          "name": "Đà Nẵng",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Đà Nẵng",
+          "translations": null,
+          "tag_ids": [
+            1400000245
+          ]
+        },
+        {
+          "name": "Quảng Ninh",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Quảng Ninh",
+          "translations": null,
+          "tag_ids": [
+            1400000227
+          ]
+        },
+        {
+          "name": "Hải Dương",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Hải Dương",
+          "translations": null,
+          "tag_ids": [
+            1058880
+          ]
+        },
+        {
+          "name": "Nam Định",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Nam Định",
+          "translations": null,
+          "tag_ids": [
+            1400005284
+          ]
+        },
+        {
+          "name": "Cần Thơ",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Cần Thơ",
+          "translations": null,
+          "tag_ids": [
+            1400000224
+          ]
+        },
+        {
+          "name": "Phú Thọ",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Phú Thọ",
+          "translations": null,
+          "tag_ids": [
+            1400005296
+          ]
+        },
+        {
+          "name": "Bà Rịa - Vũng Tàu",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Bà Rịa - Vũng Tàu",
+          "translations": null,
+          "tag_ids": [
+            700000286
+          ]
+        },
+        {
+          "name": "Đắk Lắk",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Đắk Lắk",
+          "translations": null,
+          "tag_ids": [
+            1400005312
+          ]
+        },
+        {
+          "name": "Thanh Hóa",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Thanh Hóa",
+          "translations": null,
+          "tag_ids": [
+            1058872
+          ]
+        },
+        {
+          "name": "Thái Bình",
+          "level": "0",
+          "sub_location": null,
+          "display_name": "Thái Bình",
+          "translations": null,
+          "tag_ids": [
+            1400000232
+          ]
+        },
+        {
+          "name": "Nước ngoài",
+          "level": "-2",
+          "sub_location": null,
+          "display_name": "Nước ngoài",
+          "translations": null,
+          "tag_ids": [
+            -2
+          ]
+        }
+      ],
+      "brands": [
+        {
+          "brandid": 1146440,
+          "name": "Disney"
+        },
+        {
+          "brandid": 1063985,
+          "name": "Alice"
+        },
+        {
+          "brandid": 1800385,
+          "name": "Aeropostale"
+        },
+        {
+          "brandid": 3452216,
+          "name": "Lenbach"
+        },
+        {
+          "brandid": 1073658,
+          "name": "VIENNE TRAN"
+        },
+        {
+          "brandid": 1075607,
+          "name": "LYRA"
+        },
+        {
+          "brandid": 1248561,
+          "name": "BLVCK"
+        },
+        {
+          "brandid": 1248576,
+          "name": "Mophus"
+        },
+        {
+          "brandid": 1255503,
+          "name": "EMIX"
+        },
+        {
+          "brandid": 1260769,
+          "name": "drew house"
+        },
+        {
+          "brandid": 1561837,
+          "name": "Turaty"
+        },
+        {
+          "brandid": 2857484,
+          "name": "AOKANG"
+        },
+        {
+          "brandid": 3250284,
+          "name": "YOLINEN"
+        },
+        {
+          "brandid": 3360785,
+          "name": "SEZO"
+        }
+      ],
+      "shippings": [
+        {
+          "positionid": 1,
+          "name": "Hỏa Tốc",
+          "channelids": "5000",
+          "display_name": "Hỏa Tốc"
+        },
+        {
+          "positionid": 2,
+          "name": "Nhanh",
+          "channelids": "5001",
+          "display_name": "Nhanh"
+        },
+        {
+          "positionid": 3,
+          "name": "Tiết Kiệm",
+          "channelids": "5002",
+          "display_name": "Tiết Kiệm"
+        }
+      ],
+      "price_ranges": null,
+      "filter_algorithm": "MC5hLjg2MDFAWkFPSFRLWlRWS01OTkpWWlhOMFpKM09ONjM=",
+      "attributes": null,
+      "cc_installment_info": {
+        "is_cc_installment_payment_eligible": null,
+        "is_non_cc_installment_payment_eligible": null
+      }
+    }
+  }

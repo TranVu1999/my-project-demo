@@ -1,0 +1,274 @@
+.theme .button { min-width: 150px;}
+.theme .button+button { margin-top: 2px;}
+.theme .text {
+    font-weight: 800;
+}
+.theme .text+text { margin-top: 2px;}
+
+.text {
+    --h: var(--hue-0);
+    --l: var(--light);
+    --s: var(--sat);
+
+    color: hsl(var(--h), calc(var(--s) * 1%), calc(var(--l) * 1%))!important;
+
+    --switch: calc((var(--l) - var(--threshold)) * -100%);
+    --switch-opacity: calc((var(--l) - var(--threshold)) / -100%);
+
+    mix-blend-mode: difference;
+}
+
+.text.text-light {
+    --l: var(--light);
+    --switch: calc((var(--l) - var(--threshold)) * -100%);
+    color: hsla(0, 0%, var(--switch))!important;
+
+}
+
+.button {
+    --h: var(--hue-0);
+    --l: var(--light);
+    --s: var(--sat);
+
+    background: hsl(var(--h), calc(var(--s) * 1%), calc(var(--l) * 1%));
+
+    --switch: calc((var(--l) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+
+    --border-light: calc(var(--l) * 0.7%);
+    --border-alpha:calc((var(--l) - var(--border-threshold)) * 10);
+
+    border:.2em solid hsla(var(--h), calc(var(--s) * 1%), var(--border-light), var(--border-alpha));
+}
+
+/* Color - 0 */
+.button.button-0 {
+}
+.button.button-0.button-0--0 {
+}
+.button.button-0.button-0--1,
+.text.text-0.text-0--1 {
+    --l: calc(var(--light) + 5);
+}
+.button.button-0.button-0--2,
+.text.text-0.text-0--2 {
+    --l: calc(var(--light) + 10);
+}
+.button.button-0.button-0--3,
+.text.text-0.text-0--3 {
+    --l: calc(var(--light) + 15);
+}
+.button.button-0.button-0--4,
+.text.text-0.text-0--4 {
+    --l: calc(var(--light) + 20);
+}
+.button.button-0.button-0--5,
+.text.text-0.text-0--5 {
+    --l: calc(var(--light) + 25);
+}
+.button.button-0.button-0--6,
+.text.text-0.text-0--6 {
+    --l: calc(var(--light) + 30);
+}
+.button.button-0.button-0--7,
+.text.text-0.text-0--7 {
+    --l: calc(var(--light) + 35);
+}
+.button.button-0.button-0--s7 {
+    --s: calc(var(--sat) - 35);
+}
+.button.button-0.button-0--8,
+.text.text-0.text-0--8 {
+    --l: calc(var(--light) + 40);
+}
+.button.button-0.button-0--9,
+.text.text-0.text-0--9 {
+    --l: calc(var(--light) + 45);
+}
+.button.button-0.button-0--s9 {
+    --s: calc(var(--sat) - 65);
+}
+
+/* Color - 1 */
+.button.button-1,
+.text.text-1 {
+    --h: var(--hue-1);
+}
+.button.button-1.button-1--1,
+.text.text-1.text-1--1 {
+    --l: calc(var(--light) + 5);
+}
+.button.button-1.button-1--2,
+.text.text-1.text-1--2 {
+    --l: calc(var(--light) + 10);
+}
+.button.button-1.button-1--3,
+.text.text-1.text-1--3 {
+    --l: calc(var(--light) + 15);
+}
+.button.button-1.button-1--4,
+.text.text-1.text-1--4 {
+    --l: calc(var(--light) + 20);
+}
+.button.button-1.button-1--5,
+.text.text-1.text-1--5 {
+    --l: calc(var(--light) + 25);
+}
+.button.button-1.button-1--6,
+.text.text-1.text-1--6 {
+    --l: calc(var(--light) + 30);
+}
+.button.button-1.button-1--7,
+.text.text-1.text-1--7 {
+    --l: calc(var(--light) + 35);
+}
+.button.button-1.button-1--8,
+.text.text-1.text-1--8 {
+    --l: calc(var(--light) + 40);
+}
+.button.button-1.button-1--9,
+.text.text-1.text-1--9 {
+    --l: calc(var(--light) + 45);
+}
+.button.button-1.button-1--14,
+.text.text-1.text-1--14 {
+    --l: calc(var(--light) + 70);
+}
+
+.button.button-1.button-1--16 {
+    --l: calc(var(--light) + 80);
+}
+.button.button-1.button-1--17 {
+    --l: calc(var(--light) + 85);
+}
+.button.button-1.button-1--18 {
+    --l: calc(var(--light) + 90);
+}
+
+/* Color - 2 */
+.button.button-2,
+.text.text-2 {
+    --h: var(--hue-2);
+}
+.button.button-2.button-2--1,
+.text.text-2.text-2--1 {
+    --l: calc(var(--light) + 5);
+}
+.button.button-2.button-2--2,
+.text.text-2.text-2--2 {
+    --l: calc(var(--light) + 10);
+}
+.button.button-2.button-2--3,
+.text.text-2.text-2--3 {
+    --l: calc(var(--light) + 15);
+}
+.button.button-2.button-2--4,
+.text.text-2.text-2--4 {
+    --l: calc(var(--light) + 20);
+}
+.button.button-2.button-2--5,
+.text.text-2.text-2--5 {
+    --l: calc(var(--light) + 25);
+}
+.button.button-2.button-2--6,
+.text.text-2.text-2--6 {
+    --l: calc(var(--light) + 30);
+}
+.button.button-2.button-2--7,
+.text.text-2.text-2--7 {
+    --l: calc(var(--light) + 35);
+}
+.button.button-2.button-2--8,
+.text.text-2.text-2--8 {
+    --l: calc(var(--light) + 40);
+}
+.button.button-2.button-2--9,
+.text.text-2.text-2--9 {
+    --l: calc(var(--light) + 45);
+}
+.button.button-2.button-2--10,
+.text.text-2.text-2--10 {
+    --l: calc(var(--light) + 50);
+}
+.button.button-2.button-2--11,
+.text.text-2.text-2--11 {
+    --l: calc(var(--light) + 55);
+}
+.button.button-2.button-2--12,
+.text.text-2.text-2--12 {
+    --l: calc(var(--light) + 60);
+}
+.button.button-2.button-2--13,
+.text.text-2.text-2--13 {
+    --l: calc(var(--light) + 65);
+}
+.button.button-2.button-2--14,
+.text.text-2.text-2--14 {
+    --l: calc(var(--light) + 70);
+}
+
+
+/* Color - 3 */
+.button.button-3,
+.text.text-3 {
+    --h: var(--hue-3);
+}
+.button.button-3.button-3--1,
+.text.text-3.text-3--1 {
+    --l: calc(var(--light) + 5);
+}
+.button.button-3.button-3--2,
+.text.text-3.text-3--2 {
+    --l: calc(var(--light) + 10);
+}
+.button.button-3.button-3--3,
+.text.text-3.text-3--3 {
+    --l: calc(var(--light) + 15);
+}
+.button.button-3.button-3--4,
+.text.text-3.text-3--4 {
+    --l: calc(var(--light) + 20);
+}
+.button.button-3.button-3--5,
+.text.text-3.text-3--5 {
+    --l: calc(var(--light) + 25);
+}
+.button.button-3.button-3--6,
+.text.text-3.text-3--6 {
+    --l: calc(var(--light) + 30);
+}
+.button.button-3.button-3--7,
+.text.text-3.text-3--7 {
+    --l: calc(var(--light) + 35);
+}
+.button.button-3.button-3--8,
+.text.text-3.text-3--8 {
+    --l: calc(var(--light) + 40);
+}
+.button.button-3.button-3--9,
+.text.text-3.text-3--9 {
+    --l: calc(var(--light) + 45);
+}
+.button.button-3.button-3--10,
+.text.text-3.text-3--10 {
+    --l: calc(var(--light) + 50);
+}
+.button.button-3.button-3--11,
+.text.text-3.text-3--11 {
+    --l: calc(var(--light) + 55);
+}
+.button.button-3.button-3--12,
+.text.text-3.text-3--12 {
+    --l: calc(var(--light) + 60);
+}
+.button.button-3.button-3--13,
+.text.text-3.text-3--13 {
+    --l: calc(var(--light) + 65);
+}
+.button.button-3.button-3--14,
+.text.text-3.text-3--14 {
+    --l: calc(var(--light) + 70);
+}
+
+/* TEXT */
+

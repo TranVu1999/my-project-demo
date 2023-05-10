@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    width: 500px;
+    height: 500px;
+    border: 3px solid grey;
+    overflow-y: scroll;
+}
+
+.child {
+    width: 250px;
+    height: 100px;
+    border: 3px solid greenyellow;
+    overflow-y: scroll;
+    scroll-behavior: contain;
+}

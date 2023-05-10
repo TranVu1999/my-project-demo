@@ -1,0 +1,23 @@
+.list-colors .color-item {
+    width: 100%;
+    line-height: 40px;
+    text-align: center;
+}
+
+.list-colors .color-item+.color-item {
+    margin-top: 3px;
+}
+
+.list-colors {
+    gap: 16px;
+}
+
+.color-picker {
+    line-height: 50px;
+    font-weight: 700;
+}
+
+/* Version 2 */
+.main-wrapper-v2 {
+    
+}

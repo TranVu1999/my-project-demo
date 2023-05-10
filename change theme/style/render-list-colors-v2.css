@@ -1,0 +1,23 @@
+.main-wrapper {
+    padding: 16px;
+}
+
+.color-result {
+    height: 40px;
+}
+
+.creative-colors .color {
+    height: 30px;
+}
+
+.creative-colors .color+.color {
+    margin-top: 2px;
+}
+
+.color-palette--text .color {
+    background-color: black;
+}
+
+.combine-classes .combine-class{
+    line-height: 40px;
+}

@@ -1,0 +1,55 @@
+.main-wrapper {
+    width: 700px;
+    margin: 10px auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.thumbnail {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 3px solid grey;
+}
+
+.thumbnail.skeleton {
+    background-color: yellowgreen;
+    transition: .5s;
+}
+
+.thumbnail +.thumbnail {
+    margin-left: 10px;
+}
+
+.draggable-elements {
+    margin-bottom: 16px;
+}
+
+.draggable-elements .draggable {
+    cursor: move;
+}
+
+.droppable-elements {
+    margin-bottom: 16px;
+    height: 150px;
+    background-color: rgb(220, 219, 219);
+}
+
+.draggable-container {
+    position: relative;
+    min-height: 600px;
+    background-color: bisque;
+}
+
+.modal-tail {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
